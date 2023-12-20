@@ -3,6 +3,8 @@ ul{
     justify-content: space-between;
     background-color: blue;
     color: white;
+    list-style-type: none;
+    /* font-family: 'Courier New', Courier, monospace; */
 }
 .container{
     border: 1px solid;
