@@ -1,0 +1,22 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    color: white;
+}
+.container{
+    border: 1px solid;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+.toto{
+    margin: 10px;
+}
+.tata{
+    margin: 10px;
+}
+.momo{
+    margin: 10px;
+}
